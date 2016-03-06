@@ -7,5 +7,5 @@ The histogram at the bottom showing the statistics of data, one rectangle for on
 
 ![image](https://github.com/ZENG-Yuhao/Processing-Map/blob/master/screenshots/ui.png)
 
-###Data format
+###Data format (Json)
 ![image](https://github.com/ZENG-Yuhao/Processing-Map/blob/master/screenshots/data.jpg)
